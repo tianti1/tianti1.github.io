@@ -1,0 +1,24 @@
+//普通模式
+ <card :list="listimg" ></card>
+//自动播放
+ <card :list="listimg" bool></card>
+<script>
+export default {
+ data() {
+    return {
+    //图片数据
+      listimg: [
+        "https://s3.bmp.ovh/imgs/2022/07/25/3825abda2959a12c.jpg",
+        "https://s3.bmp.ovh/imgs/2022/07/25/84dfb8476150d96f.jpg",
+        "https://s3.bmp.ovh/imgs/2022/07/25/00c16a1b9f2dd206.jpg",
+        "https://s3.bmp.ovh/imgs/2022/07/25/19c0f6bcff1017fc.jpg",
+        "https://s3.bmp.ovh/imgs/2022/07/25/004af39d0666d17b.jpg"
+      ]
+    };
+  },
+   components: {
+   //注册挂载之组件
+   card: () => import("@/components/content/Card.vue"),
+   }
+  }
+  </script>

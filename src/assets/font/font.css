@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'sxsx'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('手写书信设计.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+@font-face {
+    font-family: 'hl'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('今昔豪龙字体.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+
+  @font-face {
+    font-family: 'cl'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('春联行书字体.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+
+  @font-face {
+    font-family: 'wh'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('王漢宗勘亭流繁.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+
+  @font-face {
+    font-family: 'yg'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('叶根友风雅卡通.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+  
+  @font-face {
+    font-family: 'mn'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('蒙纳简超刚黑.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+
+  @font-face {
+    font-family: 'hk'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('华康少女体 .ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+
+  @font-face {
+    font-family: 'rw'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('日文毛笔字体.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
+
+  @font-face {
+    font-family: 'yg2'; /* //字体名 */
+    /* src: url('font/MISTRAL.ttf') format('truetype'); /* //引入字体 */
+    src: url('叶根友毛笔行书.ttf');
+    /* font-weight: normal;
+    font-style: normal; */
+  }
